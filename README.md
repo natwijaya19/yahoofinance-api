@@ -133,3 +133,5 @@ List<HistoricalQuote> googleHistQuotes = google.getHistory(from, to, Interval.DA
 // googleHistQuotes is the same as google.getHistory() at this point
 // provide some parameters to the getHistory method to send a new request to Yahoo Finance
 ```
+
+Yep
